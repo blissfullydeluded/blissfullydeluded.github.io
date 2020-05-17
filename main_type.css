@@ -1,0 +1,50 @@
+ /* Main typeface stylesheet */
+
+ /* Main_header typeface stylesheet */
+.site_title, .top_header_right{
+  font-family: 'helvetica neue', 'Arial', sans-serif;
+  color: #004ffa;
+}
+
+.site_title {
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: -.02em;
+  text-decoration: none;
+}
+
+.site_title_nav{
+  font-weight: 400;
+  font-size: 13px;
+  letter-spacing: .03em;
+  list-style-type: none;
+}
+
+.site_nav_link{
+  text-decoration: none;
+  color: #004ffa;
+}
+
+
+.site_nav_link:hover, .site_nav_link:active{
+  color: black;
+}
+
+
+ /* Main_content typeface stylesheet */
+
+.h1_content{
+  font-family: 'helvetica neue', 'Arial', sans-serif;
+  letter-spacing: -.02em;
+  font-weight:600;
+  font-size: 50px;
+  padding-bottom: 20px;
+}
+
+.standfirst{
+  font-family: Helvetica,Arial,sans-serif;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1em;
+  color: #373636;
+}
